@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/data-protection.ico</file>
+        <file>img/data-protection.svg</file>
+        <file>img/encrypted (1).svg</file>
+        <file>img/encrypted.svg</file>
+        <file>img/encryption.svg</file>
+        <file>img/file-storage.svg</file>
+        <file>img/folder.svg</file>
+        <file>img/padlock.svg</file>
+        <file>img/unlock.svg</file>
+    </qresource>
+</RCC>
